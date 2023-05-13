@@ -8,7 +8,7 @@ This repository contains resources for the Wiren Board brand such as logos and o
 
 PNG: <img src="/logos/logo-horizontal.png" alt="Wiren Board Logo Horizontal PNG" width="300" />
 
-SVG: <img src="/logos/logo-horizontal.svg" alt="Wiren Board Logo Horizontal PNG" width="300" />
+SVG: <img src="/logos/logo-horizontal.svg" alt="Wiren Board Logo Horizontal SVG" width="300" />
 
 **Round**
 
