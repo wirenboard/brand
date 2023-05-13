@@ -8,11 +8,11 @@ The logos below are in SVG file format. The PNG versions and other colors and si
 
 **Horizontal**
 
-<img src="/logos/logo-horizontal.svg" alt="Wiren Board Logo Horizontal SVG" height="80" />
+<img src="/logos/logo-horizontal.svg" alt="Wiren Board Logo Horizontal" height="80" />
 
 **Round**
 
-<img src="/logos/logo-round.svg" alt="Wiren Board Logo Round SVG" height="80" />
+<img src="/logos/logo-round.svg" alt="Wiren Board Logo Round" height="80" />
 
 ## Other Things To Know
 
