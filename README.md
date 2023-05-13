@@ -4,19 +4,15 @@ This repository contains resources for the Wiren Board brand such as logos and o
 
 ## Logos
 
+The logos below are in SVG file format. The PNG version and other colors and sizes are [here](/logos).
+
 **Horizontal**
 
-PNG: <img src="/logos/logo-horizontal.png" alt="Wiren Board Logo Horizontal PNG" height="80" />
-
-SVG: <img src="/logos/logo-horizontal.svg" alt="Wiren Board Logo Horizontal SVG" height="80" />
+<img src="/logos/logo-horizontal.svg" alt="Wiren Board Logo Horizontal SVG" height="80" />
 
 **Round**
 
-PNG: <img src="/logos/logo-round.png" alt="Wiren Board Logo Round PNG" height="80" />
-
-SVG: <img src="/logos/logo-round.svg" alt="Wiren Board Logo Round SVG" height="80" />
-
-[View more colors and sizes](/logos)
+<img src="/logos/logo-round.svg" alt="Wiren Board Logo Round SVG" height="80" />
 
 ## Other Things To Know
 
