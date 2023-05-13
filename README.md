@@ -4,7 +4,7 @@ This repository contains resources for the Wiren Board brand such as logos and o
 
 ## Logos
 
-The logos below are in SVG file format. The PNG version and other colors and sizes are [here](/logos).
+The logos below are in SVG file format. The PNG versions and other colors and sizes are [here](/logos).
 
 **Horizontal**
 
