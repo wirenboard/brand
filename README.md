@@ -25,3 +25,4 @@ SVG versions and more colors and sizes can be found [here](/logos).
 ## Other Things To Know
 
 - Capitalize the "W" and the "B" in Wiren Board in all copy text and put a space between words. Wiren Board should only be presented in all lowercase when displayed in our official logos (see above).
+- WIRENBOARD PRO must be written in uppercase only.
