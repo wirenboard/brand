@@ -6,20 +6,20 @@ This repository contains resources for the Wiren Board brand such as logos and o
 
 **Horizontal**
 
-<img src="/logos/logo-horizontal.png" alt="Wiren Board Logo Horizontal" height="80" />
-<img src="/logos/logo-horizontal_descr.png" alt="Wiren Board Logo Horizontal with descriptor" height="115" />
+<img src="/logos/logo-horizontal/logo-horizontal.png" alt="Wiren Board Logo Horizontal" height="80" />
+<img src="/logos/logo-horizontal-with-descriptor/logo-horizontal-with-descriptor.png" alt="Wiren Board Logo Horizontal with descriptor" height="115" />
 
 **Round**
 
-<img src="/logos/logo-round.png" alt="Wiren Board Logo Round" height="80" />
+<img src="/logos/logo-round/logo-round.png" alt="Wiren Board Logo Round" height="80" />
 
 **Horizontal black-and-white**
 
-<img src="/logos/logo-horizontal-bw.png" alt="Wiren Board Logo Horizontal black-and-white" height="80" />
+<img src="/logos/logo-horizontal-inverted/logo-horizontal-inverted-black.png" alt="Wiren Board Logo Horizontal black-and-white" height="80" />
 
 **WIRENBOARD PRO Product Line**
 
-<img src="/logos/WIRENBOARD-PRO-logo-filled.png" alt="WIRENBOARD PRO Logo filled" height="80" />
+<img src="/logos/WIRENBOARD-PRO-logo/WIRENBOARD-PRO-logo-filled.png" alt="WIRENBOARD PRO Logo filled" height="80" />
 
 SVG versions and more colors and sizes can be found [here](/logos).
 Wiren Board Brand Identity Guidelines can be found [here](/src).
