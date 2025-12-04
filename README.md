@@ -4,7 +4,7 @@ This repository contains resources for the Wiren Board brand such as logos and o
 
 ## Brand identity guidelines
 
-- Please check our [Brand Identity Guidelines](/Wiren Board Brand Identity Guidelines.pdf).
+- Please check our [Brand Identity Guidelines](/Wiren%20Board%20Brand%20Identity%20Guidelines.pdf).
 - Capitalize the "W" and the "B" in Wiren Board in all copy text and put a space between words. Wiren Board should only be presented in all lowercase when displayed in our official logos (see below).
 - At the same time, WIRENBOARD PRO must be written in uppercase only.
 
