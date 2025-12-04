@@ -2,6 +2,12 @@
 
 This repository contains resources for the Wiren Board brand such as logos and other media.
 
+## Brand identity guidelines
+
+- Please check our [Brand Identity Guidelines](/Wiren Board Brand Identity Guidelines.pdf).
+- Capitalize the "W" and the "B" in Wiren Board in all copy text and put a space between words. Wiren Board should only be presented in all lowercase when displayed in our official logos (see below).
+- At the same time, WIRENBOARD PRO must be written in uppercase only.
+
 ## Logos
 
 **Horizontal**
@@ -30,7 +36,3 @@ SVG versions and more colors and sizes can be found [here](/logos).
 | Light blue | (0,183,243) |              | 306 C              | 3545 C                | 2199 C                |
 | Dark blue  | (0,126,167) |              | 2391 C             | 314 C                 | 7690 C                |
 
-## Other Things To Know
-
-- Capitalize the "W" and the "B" in Wiren Board in all copy text and put a space between words. Wiren Board should only be presented in all lowercase when displayed in our official logos (see above).
-- WIRENBOARD PRO must be written in uppercase only.
