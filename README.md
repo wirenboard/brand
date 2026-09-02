@@ -12,27 +12,29 @@ This repository contains resources for the Wiren Board brand such as logos and o
 
 **Horizontal**
 
-<img src="/logos/logo-horizontal.png" alt="Wiren Board Logo Horizontal" height="80" />
+<img src="/logos/logo-horizontal/logo-horizontal.png" alt="Wiren Board Logo Horizontal" height="80" />
+<img src="/logos/logo-horizontal-with-descriptor/logo-horizontal-with-descriptor.png" alt="Wiren Board Logo Horizontal with descriptor" height="115" />
 
 **Round**
 
-<img src="/logos/logo-round.png" alt="Wiren Board Logo Round" height="80" />
+<img src="/logos/logo-round/logo-round.png" alt="Wiren Board Logo Round" height="80" />
 
 **Horizontal black-and-white**
 
-<img src="/logos/logo-horizontal-bw.png" alt="Wiren Board Logo Horizontal black-and-white" height="80" />
+<img src="/logos/logo-horizontal-inverted/logo-horizontal-inverted-black.png" alt="Wiren Board Logo Horizontal black-and-white" height="80" />
 
 **WIRENBOARD PRO Product Line**
 
-<img src="/logos/WIRENBOARD-PRO-logo-filled.png" alt="WIRENBOARD PRO Logo filled" height="80" />
+<img src="/logos/WIRENBOARD-PRO-logo/WIRENBOARD-PRO-logo-filled.png" alt="WIRENBOARD PRO Logo filled" height="80" />
 
 SVG versions and more colors and sizes can be found [here](/logos).
+Wiren Board Brand Identity Guidelines can be found [here](/src).
 
 ## Colors
 
 | Color      | sRGB        | CMYK SWOP    | Pantone Best Match | Pantone Alternative 1 | Pantone Alternative 2 |
 |------------|-------------|--------------|--------------------|-----------------------|-----------------------|
 | Green      | (92,179,0)  | (67,0,100,0) | 3501 C             | 2287 C                | 369 C                 |
-| Light blue | (0,183,243) |              | 306 C              | 3545 C                | 2199 C                |
+| Light blue | (0,183,243) |  (89,0,7,0)  | 306 C              | 3545 C                | 2199 C                |
 | Dark blue  | (0,126,167) |              | 2391 C             | 314 C                 | 7690 C                |
 
