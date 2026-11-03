@@ -13,7 +13,7 @@ This repository contains resources for the Wiren Board brand such as logos and o
 **Horizontal**
 
 <img src="/logos/logo-horizontal/logo-horizontal.png" alt="Wiren Board Logo Horizontal" height="80" />
-<img src="/logos/logo-horizontal-with-descriptor/logo-horizontal-with-descriptor.png" alt="Wiren Board Logo Horizontal with descriptor" height="115" />
+<img src="/logos/logo-horizontal-with-descriptor/logo-horizontal-with-descriptor.png" alt="Wiren Board Logo Horizontal with descriptor" height="139" />
 
 **Round**
 
